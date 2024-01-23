@@ -1,0 +1,10 @@
+html, body {
+    height: 100%;
+    max-width: 1200px;
+    margin: 2% auto;
+    padding: 0;
+}
+
+h1 {
+    font-size: 2em;
+}
