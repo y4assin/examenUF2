@@ -8,3 +8,10 @@ html, body {
 h1 {
     font-size: 2em;
 }
+
+#banner {
+    background-image: url('../img/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh; /* Puedes ajustar esto según tus necesidades */
+}
